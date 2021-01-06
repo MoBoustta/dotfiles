@@ -154,6 +154,10 @@ function git_main_branch() {
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"source /Users/moboustt/Desktop/cursus/newCub/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 # Load Homebrew config script
+#
+alias vi=nvim
+alias vim=nvim
+alias v=nvim
 source $HOME/.brewconfig.zsh
 
 export PATH="$PATH:/Users/moboustt/flutter/bin"
